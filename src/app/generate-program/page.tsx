@@ -6,6 +6,8 @@ import { vapi } from "@/lib/vapi";
 import { useUser } from "@clerk/nextjs";
 import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
+export const dynamic = "force-dynamic";
+
 
 const GenerateProgramPage = () => {
   const [callActive, setCallActive] = useState(false);
