@@ -16,6 +16,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
+export const dynamic = "force-dynamic";
 
 const ProfilePage = () => {
   const { user } = useUser();
