@@ -1,5 +1,11 @@
 <h1 align="center">AI Fitness Assistant 🤖</h1>
 
+## 🌐 Live App
+
+The application is live and available here:  
+👉 https://ai-fitness-trainer-oks7.onrender.com/
+
+
 ![first_page](image.png)
 
 ![generate_program_page](image-1.png)
